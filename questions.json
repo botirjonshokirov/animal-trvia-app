@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is object destructuring in JavaScript?",
+    "answer": "Object destructuring is a feature that allows you to extract properties from an object and assign them to variables. It provides a more concise way to access object properties."
+  },
+  {
+    "question": "How do you iterate through the properties of an object?",
+    "answer": "You can use a 'for...in' loop or the 'Object.keys()', 'Object.values()', or 'Object.entries()' methods to iterate through an object's properties."
+  },
+  {
+    "question": "Can objects have nested objects as properties?",
+    "answer": "Yes, objects can have other objects as properties, creating a nested structure. This allows you to organize and represent complex data."
+  },
+  {
+    "question": "What is the difference between 'null' and 'undefined'?",
+    "answer": "'null' is a value representing the intentional absence of any object value. 'undefined' is a value that indicates a variable or property has been declared but has not been assigned a value."
+  },
+  {
+    "question": "How can you clone an object in JavaScript?",
+    "answer": "You can clone an object using various methods, such as using the 'Object.assign()' method, the spread operator ('...'), or libraries like 'Lodash'."
+  },
+  {
+    "question": "What is the 'this' keyword in JavaScript?",
+    "answer": "The 'this' keyword refers to the object that is currently executing the JavaScript code. Its value depends on how a function is called or where a method is invoked."
+  }
+]
